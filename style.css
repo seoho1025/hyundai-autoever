@@ -13,7 +13,7 @@ body {
 
 /* 헤더 */
 header {
-    background-color: #002c5f;
+    background-color: #002c5d;
     color: white;
     padding: 1rem 2rem;
 }
@@ -42,7 +42,7 @@ main {
     padding: 0 2rem;
 }
 main h2 {
-    color: #002c5f;
+    color: #002c6f;
     margin-bottom: 1.5rem;
 }
 section {
